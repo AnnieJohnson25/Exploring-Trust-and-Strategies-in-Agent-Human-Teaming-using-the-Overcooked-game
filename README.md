@@ -1,5 +1,5 @@
 # Exploring-Trust-and-Strategies-in-Agent-Human-Teaming-using-the-Overcooked-game
-Documents my Capstone work
+This repository documents my Capstone work
 
 This work delves into evaluating trust in agent-human teaming in the gaming domain. 
 This capstone project combines a Human-Computer Interaction (HCI) component as well as an analytic component. 
